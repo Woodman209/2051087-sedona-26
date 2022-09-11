@@ -56,3 +56,9 @@ git clone SSH-адрес_вашего_форка
 
 [check-image]: https://github.com/htmlacademy-adaptive/2051087-sedona-26/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/2051087-sedona-26/actions
+
+#### 5. Сборка
+
+---
+
+Пример эталонной сборки ищи в ветке module8-task1
